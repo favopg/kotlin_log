@@ -3,6 +3,10 @@
  */
 package kotlin_log
 
+/**
+ * アプリケーションクラス
+ * @author イッシー
+ */
 class App {
     val greeting: String
         get() {
